@@ -54,6 +54,7 @@ body {
   padding: 1rem;
   border-radius: 1rem;
   font-size: 1.8rem;
+  width: 100%;
 }
 .form [type="submit"] {
   background-color: var(--primary);
